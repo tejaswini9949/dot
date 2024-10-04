@@ -19,7 +19,7 @@
            <skipITs>${skipTests}</skipITs>
            <skipUTs>${skipTests}</skipUTs>
           <sonar.host.url>http://13.127.213.198:9000/</sonar.host.url>
-          <sonar.login>ec97d648cdc845bb2718c8145b85266d7c9e2cae</sonar.login>
+          <sonar.login>bebcfef0d4f97739e68d60daded4c42fd9b2e082</sonar.login>
 
     </properties>
 
