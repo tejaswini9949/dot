@@ -685,11 +685,11 @@
 <distributionManagement>
    <snapshotRepository>
      <id>jfrog-snapshots</id>
-     <url>http://43.205.119.188:8082/artifactory/jfrog-snapshots/</url>
+     <url>http://35.154.120.196:8082/artifactory/jfrog-snapshots/</url>
    </snapshotRepository>
    <repository>
      <id>jfrog-releases</id>
-     <url>http://43.205.119.188:8082/artifactory/jfrog-releases/</url>
+     <url>http://35.154.120.196:8082/artifactory/jfrog-releases/</url>
    </repository>
 </distributionManagement>
 
